@@ -45,3 +45,5 @@ Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à
 **#Bíblia #DesenvolvimentoWeb #OpenSource**
 
 **Observação:** Adapte este README.md para incluir informações mais específicas sobre sua aplicação, como a versão do JavaScript, frameworks utilizados, etc. Você também pode adicionar uma seção de agradecimentos aos colaboradores.
+
+link do site : https://topicos-biblicos.vercel.app
